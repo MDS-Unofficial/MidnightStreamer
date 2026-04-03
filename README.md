@@ -39,7 +39,7 @@
 1. Download and extract the zip file https://mega.nz/folder/nIhFlYhY#7nNP5mZexcOqg3di9vHNOQ 
 
 
-2. Install the panel (Reboot your server once before installing to make sure dpkg pid is not locked)
+2. Install the panel (Reboot your server once before running the installer to make sure dpkg pid is not locked, even on fresh OS installations)
 	 
 ```
 chmod 777 ms_install_offline.sh
