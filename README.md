@@ -67,3 +67,5 @@ echo -e "\n127.0.0.1 download.midnightstreamer.com" >> /etc/hosts
 4. Login to the panel and change the server IP address in the server settings
 
 **Enjoy**
+
+* <a href="https://github.com/MDS-Unofficial/MidnightStreamer">Github</a>
