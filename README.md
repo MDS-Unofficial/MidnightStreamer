@@ -37,7 +37,7 @@
 
 <img width="1000" alt="Screenshot 2026-04-03 095152" src="https://github.com/user-attachments/assets/76ee7bf9-969f-47fb-ac2b-3b3b930fc007" />
 <br />
-Fastest and most reliable <b>PHP</b> streaming on the planet. Instant on-demand stream open
+Fastest and most reliable <b>PHP</b> streamer on the planet. Instant on-demand stream open
 
 
 ## Ubuntu versions
