@@ -5,7 +5,7 @@
 			|_|  |_|_|\__,_|_| |_|_|\__, |_| |_|\__|____/ \__|_|  \___|\__,_|_| |_| |_|\___|_|   
 					                        |___/                                              ®
 
-					**[Installation instructions for MDS Pro IPTV Panel, v5.9.1 - Lifetime]**
+					[Installation instructions for MDS Pro IPTV Panel, v5.9.1 - Lifetime]
 
                                         =======================                                     
                                         = =====================                                     
