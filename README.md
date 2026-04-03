@@ -35,10 +35,12 @@
 ## Ubuntu versions
 * Tested on **Ubuntu 18/20/22/24**
 
-## Make sure ms_install_offline.sh and ms_install_5.9.1.tar.gz are in the same directory
+### Make sure ms_install_offline.sh and ms_install_5.9.1.tar.gz are in the same directory
 
 ## Installation
-1. Install the panel (Reboot your server once before installing to make sure dpkg pid is not locked)
+1. Git clone this repo or download and extract the zip file https://github.com/fantv33/MidnightStreamer/raw/main/MidnightStreamer_v5.5.1_INSTALL.zip
+
+2. Install the panel (Reboot your server once before installing to make sure dpkg pid is not locked)
 	 
 ```
 chmod 777 ms_install_offline.sh
@@ -47,13 +49,13 @@ chmod 777 ms_install_offline.sh
 ```
 
 
-2. [Optional] Run this command in a terminal
+3. [Optional] Run this command in a terminal
 
 ```
 echo -e "\n127.0.0.1 download.midnightstreamer.com" >> /etc/hosts
 ```
 
 
-3. Login to the panel and change the server IP address in the server settings
+4. Login to the panel and change the server IP address in the server settings
 
 **Enjoy**
