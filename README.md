@@ -31,10 +31,13 @@
                       =========== ==    ====       ==            =======        ==                  
          ======   ==                  ==           ==            =================                  
 
-# Tested on Ubuntu 18/20/22/24
+
+## Ubuntu versions
+* Tested on **Ubuntu 18/20/22/24**
 
 ## Make sure ms_install_offline.sh and ms_install_5.9.1.tar.gz are in the same directory
 
+## Installation
 1. Install the panel (Reboot your server once before installing to make sure dpkg pid is not locked)
 	 
 ```
@@ -53,4 +56,4 @@ echo -e "\n127.0.0.1 download.midnightstreamer.com" >> /etc/hosts
 
 3. Login to the panel and change the server IP address in the server settings
 
-# Enjoy
+**Enjoy**
