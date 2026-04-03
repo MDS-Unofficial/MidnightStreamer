@@ -35,7 +35,6 @@
 <br />
 <img width="1000" alt="Screenshot 2026-04-03 093752" src="https://github.com/user-attachments/assets/5b8a243f-49be-404c-b852-c00a45c20044" />
 
-<br />
 <img width="1000" alt="Screenshot 2026-04-03 095152" src="https://github.com/user-attachments/assets/76ee7bf9-969f-47fb-ac2b-3b3b930fc007" />
 <br />
 Fastest <b>PHP</b> streaming on the planet. Instant on-demand stream open
