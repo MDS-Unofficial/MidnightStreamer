@@ -32,6 +32,9 @@
          ======   ==                  ==           ==            =================                  
 
 
+<br />
+<img width="2547" height="800" alt="Screenshot 2026-04-03 093752" src="https://github.com/user-attachments/assets/5b8a243f-49be-404c-b852-c00a45c20044" />
+
 ## Ubuntu versions
 * Tested on **Ubuntu 18/20/22/24**
 
