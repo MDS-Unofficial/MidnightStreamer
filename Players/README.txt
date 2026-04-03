@@ -1,4 +1,4 @@
-MDS is compatible with all XC players.
+MDS Panel is compatible with all XC players.
 
 Below is the list of MDS native players.
 
