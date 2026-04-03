@@ -30,11 +30,10 @@
                   ===================== =  ==    ====            ===   == ========                  
                       =========== ==    ====       ==            =======        ==                  
          ======   ==                  ==           ==            =================                  
-   =======    -===    =========== ==               ==            =================  =====           
 
 # Tested on Ubuntu 18/20/22/24
 
-# Make sure ms_install_offline.sh and ms_install_5.9.1.tar.gz are in the same directory
+## Make sure ms_install_offline.sh and ms_install_5.9.1.tar.gz are in the same directory
 
 1. Install the panel (Reboot your server once before installing to make sure dpkg pid is not locked)
 	 
