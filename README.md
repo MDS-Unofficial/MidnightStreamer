@@ -56,7 +56,7 @@ chmod 777 ms_install_offline.sh
 ```
 
 
-3. [Optional] Run this command in a terminal
+3. [Optional]
 
 ```
 echo -e "\n127.0.0.1 download.midnightstreamer.com" >> /etc/hosts
