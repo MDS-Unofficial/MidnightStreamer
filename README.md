@@ -49,18 +49,18 @@ Fastest and most reliable <b>PHP</b> streaming on the planet. Instant on-demand 
 
 2. Install the panel (Reboot your server once before running the installer to make sure the dpkg pid is not locked, even on fresh OS installations)
 	 
-```
-chmod 777 ms_install_offline.sh
+	```
+	chmod 777 ms_install_offline.sh
 
-./ms_install_offline.sh
-```
+	./ms_install_offline.sh
+	```
 
 
-3. Optional
+3. [Optional]
 
-```
-echo -e "\n127.0.0.1 download.midnightstreamer.com" >> /etc/hosts
-```
+	```
+	echo -e "\n127.0.0.1 download.midnightstreamer.com" >> /etc/hosts
+	```
 
 
 4. Login to the panel and change the server IP address in the server settings
