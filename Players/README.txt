@@ -20,3 +20,6 @@ enigma2_midnightstreamer_1.0.85_mipsel.ipk   1.61 MB   2019-08-06 11:14:53  1d7b
 enigma2_midnightstreamer_1.0.85_aarch64.ipk  1.61 MB   2019-08-06 11:14:52  c942a00888a3180833aa74fe4f9527d3166bbbd6
 enigma2_msplugin_0.1_all.ipk                 153.57 KB 2018-12-04 09:16:25  f6df60774bd60ba85910ad21628879bc68b5718d
 android_iptv_core.apk                        1.35 MB   2018-06-22 11:35:20  15016898f5d735a6556037718e6897d2f24b7d64
+
+[NOTE]
+enigma2_midnightstreamer_3.0.2_all.ipk is now open source and has been converted to Python 3 (OpenPli 9.0+, OpenATV 7.0+, VTi 15+)
