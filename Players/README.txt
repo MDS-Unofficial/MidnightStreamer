@@ -1,4 +1,4 @@
-MDS integrates the XC Player API and is therefore compatible with all XC players.
+MDS integrates the XC Player API and is therefore compatible with ALL XC players.
 
 Below is the list of MDS Native players.
 
