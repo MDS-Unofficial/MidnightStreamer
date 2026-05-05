@@ -100,6 +100,8 @@ if [ $p = "apt-get" ]; then
 
 		rm /home/midnightstreamer/iptv_midnight_streamer/php/bin/php_rh
 		rm /home/midnightstreamer/iptv_midnight_streamer/php/sbin/php-fpm_rh
+
+		add-apt-repository -y universe
 else
 		mv /home/midnightstreamer/iptv_midnight_streamer/start_services_rh.sh /home/midnightstreamer/iptv_midnight_streamer/start_services.sh
 		rm -rf /home/midnightstreamer/iptv_midnight_streamer/start_services_deb.sh
