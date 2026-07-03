@@ -237,6 +237,9 @@ if [ $p = "apt-get" ]; then
 
 		export DEBIAN_FRONTEND=noninteractive
 
+		apt-get install libxml2 -y
+		apt-get install librtmp1 -y
+
 		apt-get install libxslt1.1 -y
 		apt-get install libpq5 -y
 		apt-get install libmcrypt4 -y
