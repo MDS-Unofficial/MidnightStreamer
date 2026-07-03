@@ -41,7 +41,7 @@ The fastest and most reliable passthrough streaming on the planet. Instant on-de
 
 
 ## Ubuntu versions
-* Tested on **Ubuntu 18/20/22/24**
+* Tested on **Ubuntu 18/20/22/24/26**
 
 ## Installation
 1. Download and extract the zip file https://mega.nz/folder/nIhFlYhY#7nNP5mZexcOqg3di9vHNOQ 
