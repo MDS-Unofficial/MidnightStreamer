@@ -50,7 +50,7 @@ The fastest and most reliable passthrough streaming on the planet. Instant on-de
 2. Install the panel (Reboot your server once before running the installer to make sure the dpkg pid is not locked, even on fresh OS installations)
 	 
 	```
-	chmod 777 ms_install_offline.sh
+	chmod +x ms_install_offline.sh
 
 	./ms_install_offline.sh
 	```
