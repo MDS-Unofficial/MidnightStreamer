@@ -37,7 +37,7 @@
 
 <img width="1000" alt="Screenshot 2026-04-03 095152" src="https://github.com/user-attachments/assets/76ee7bf9-969f-47fb-ac2b-3b3b930fc007" />
 <br />
-The fastest and most reliable passthrough streaming on the planet. Instant on-demand stream open from cold sources (encoders, multicast, headends)
+The fastest and most reliable passthrough streaming on the planet. Instant on-demand stream open even from cold sources (encoders, multicast, headends)
 
 
 ## Ubuntu versions
