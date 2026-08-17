@@ -5,7 +5,7 @@
 			|_|  |_|_|\__,_|_| |_|_|\__, |_| |_|\__|____/ \__|_|  \___|\__,_|_| |_| |_|\___|_|   
 					                        |___/                                              ®
 
-			     [Installation instructions for MDS v5.9.1 - Lifetime]
+			     [Installation instructions for MDS (the Forbidden panel) v5.9.1 - Lifetime]
 
                                         =======================                                     
                                         = =====================                                     
@@ -37,6 +37,8 @@
 
 <img width="1000" alt="Screenshot 2026-04-03 095152" src="https://github.com/user-attachments/assets/76ee7bf9-969f-47fb-ac2b-3b3b930fc007" />
 <br />
+Feel the breeze of managing an unlimited number of on-demand streams that feel like they’re already online—with a $10 vps.
+<br /><br />
 The fastest and most reliable passthrough streaming on the planet. Instant on-demand stream open even from cold sources (encoders, multicast, headends)
 
 
