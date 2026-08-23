@@ -39,7 +39,7 @@
 <br />
 Feel the breeze of managing an unlimited number of on-demand streams so fast that feel like they’re already online—with a $10 vps.
 <br /><br />
-The fastest and most reliable passthrough streaming on the planet. Instant on-demand stream open even from cold sources (encoders, multicast, headends)
+The fastest and most reliable passthrough streaming on the planet. Instant on-demand stream open even from cold sources (encoders, multicast, dvb headends)
 
 
 ## Ubuntu versions
