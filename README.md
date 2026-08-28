@@ -69,4 +69,4 @@ The fastest and most reliable passthrough streaming on the planet. Instant on-de
 
 * <a href="https://github.com/MDS-Unofficial/MidnightStreamer">Github</a>
 
-<div style="visibility: hidden">Midnight Streamer | MDS | IPTV</div>
+<div style="visibility: hidden">Midnight Streamer | MDS</div>
