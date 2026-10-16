@@ -67,7 +67,7 @@ The fastest and most reliable passthrough streaming on the planet. Instant on-de
 
 **Enjoy**
 
-To boost performance in case of 12k+ concurrent clients on a single LB increase the Total FastCGI Services and Use MySQL Persistent Connections in the server settings.
+To boost performance in case of 12k+ concurrent clients on a single LB increase the Total FastCGI Services in the server settings.
 
 * <a href="https://github.com/MDS-Unofficial/MidnightStreamer">Github</a>
 
