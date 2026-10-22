@@ -67,7 +67,7 @@ The fastest and most reliable passthrough streaming on the planet. Instant on-de
 	```
 
 
-4. Login to the panel and change the server IP address in the server settings (LB installation will fail if the main server does not have a reachable IP configured)
+4. Login to the panel and make sure the server IP address is correct in the server settings (LB installation will fail if the main server does not have a reachable IP configured)
 
 **Enjoy**
 
