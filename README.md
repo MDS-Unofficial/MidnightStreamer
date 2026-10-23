@@ -73,7 +73,7 @@ The fastest and most reliable passthrough streaming on the planet. Instant on-de
 
 To boost performance in case of 12k+ concurrent clients on a single LB increase the Total FastCGI Services in the server settings.
 
-This distribution is a reinstall backup for those using v5.9.1 and is lifetime, it means it will work forever. This repository will be updated from time to time only for security purposes.
+This distribution is a reinstall backup for those using v5.9.1. This repository will be updated from time to time only for security purposes.
 
 The active v8 branch can be found here <a href="https://discord.gg/xwJwZCH6H">https://discord.gg/xwJwZCH6H</a>
 
