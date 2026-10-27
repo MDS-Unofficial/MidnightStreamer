@@ -229,10 +229,6 @@ if [ $p = "apt-get" ]; then
 
 		#apt-get install libxml2-dev libxslt1-dev python-dev libpq5 libmcrypt4 libltdl7 libjpeg62 -y
 
-		if [ "$PHPVER" != "8.3" ]; then
-				add-apt-repository ppa:xapienz/curl34 -y
-		fi
-
 		apt-get update
 
 		export DEBIAN_FRONTEND=noninteractive
@@ -254,14 +250,7 @@ if [ $p = "apt-get" ]; then
 		apt-get install libzip5 -y
 		apt-get install nscd -y
 		apt-get install python -y
-
-		if [ "$PHPVER" != "8.3" ]; then
-				apt-get install libcurl3 -y
-		else		
-				apt-mark unhold libcurl3
-				apt-get install libcurl4 -y
-		fi
-
+		apt-get install libcurl4 -y
 		apt-get install libssh2-1 -y
 		apt-get install openssl -y
 		apt-get install certbot -y
@@ -380,10 +369,6 @@ if [ $p = "apt-get" ]; then
 				rm /home/midnightstreamer/iptv_midnight_streamer/bin/ffmpeg2
 				rm /home/midnightstreamer/iptv_midnight_streamer/bin/ffprobe2
 		fi
-
-		if [ "$PHPVER" != "8.3" ]; then
-				apt-mark hold libcurl3
-		fi
 else
 		yum install harfbuzz -y
 		yum install fribidi -y
@@ -470,13 +455,6 @@ service mysql stop
 rm -rf /home/midnightstreamer/iptv_midnight_streamer/my_deb.cnf
 rm -rf /home/midnightstreamer/iptv_midnight_streamer/my_rh.cnf
 rm -rf /home/midnightstreamer/iptv_midnight_streamer/fresh_install.sql
-
-if [ "$PHPVER" != "8.3" ]; then
-		mv /usr/bin/curl /usr/bin/curl_old
-		mv /home/midnightstreamer/iptv_midnight_streamer/curl /usr/bin/curl
-else
-		rm /home/midnightstreamer/iptv_midnight_streamer/curl
-fi
 
 tee /etc/rsyslog.d/00-midnightstreamer.conf > /dev/null <<EOT 
 cron.notice     										-/var/log/syslog
