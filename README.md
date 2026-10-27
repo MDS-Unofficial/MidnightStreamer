@@ -45,7 +45,7 @@ The fastest and most reliable passthrough streaming on the planet. Instant on-de
 
 ## PHP
 * On Ubuntu 20/22/24/26 PHP version **8.3.36** (CVE patches, Oct 2026)
-* On Ubuntu 18 (GLIBC <= 2.29) PHP version **7.3.5** unpatched!
+* On Ubuntu 18 (GLIBC <= 2.29) PHP version **7.4.34** (CVE patches, Oct 2026)
 
 ## Installation
 1. Download and extract the zip file https://mega.nz/folder/nIhFlYhY#7nNP5mZexcOqg3di9vHNOQ 
