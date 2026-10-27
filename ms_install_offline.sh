@@ -507,10 +507,10 @@ ntpdate ntp.ubuntu.com
 
 echo -e "${OKCYAN}\n\nInstallation complete\041\n${NC}"
 echo -e "${OKCYAN}You can access your panel visiting:\n${NC}"
-echo -e "${OKCYAN} +----------------------------------+"
-echo -e "${OKCYAN} | http://your_server_ip:8000/admin |${NC}"
-echo -e "${OKCYAN} | Username: admin                  |\n | Password: iptv                   |${NC}"
-echo -e "${OKCYAN} +----------------------------------+"
+echo -e "${OKCYAN} ----------------------------------"
+echo -e "${OKCYAN}  http://$SERVER_IP:8000/admin${NC}"
+echo -e "${OKCYAN}  Username: admin\n  Password: iptv${NC}"
+echo -e "${OKCYAN} ----------------------------------"
 echo -e "${OKCYAN}\n MariaDB root password: iptv\n MariaDB midnightstreamer password: pglauD4F0L${NC}\n"
 
 history -c
