@@ -1,5 +1,14 @@
 #! /bin/bash
 
+getIP() {
+    ip -4 route get 8.8.8.8 | awk '{
+        for (i = 1; i < NF; i++)
+            if ($i == "src") { print $(i+1); exit }
+    }'
+}
+
+SERVER_IP=$(getIP)
+
 PURPLE='\033[0;35m'
 OKCYAN='\033[96m'
 YELLOW='\033[93m'
