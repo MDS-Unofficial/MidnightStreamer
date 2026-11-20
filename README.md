@@ -80,7 +80,7 @@ The installer chooses the PHP version automatically.
 * Reinstall the panel
 * Upload the gz backup to /home/midnightstreamer/iptv_midnight_streamer/backups/
 * Restore the backup from the UI
-* Rebuild the LBs from the UI
+* Full Rebuild the LBs from the UI
 
 Everything should be up and running in 10 min.
 
