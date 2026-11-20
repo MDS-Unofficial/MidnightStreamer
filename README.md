@@ -49,7 +49,7 @@ The installer chooses the PHP version automatically.
 * On Ubuntu 18 (GLIBC <= 2.29) PHP version **7.4.34** (CVE patches, Oct 2026)
 
 ## Nginx
-Version 1.30.7 (CVE patches, Nov 2026)
+1.30.7 (CVE patches, Nov 2026)
 
 ## Installation
 1. Download and extract the zip file https://mega.nz/folder/nIhFlYhY#7nNP5mZexcOqg3di9vHNOQ 
