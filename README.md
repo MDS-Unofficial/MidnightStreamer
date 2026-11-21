@@ -76,13 +76,12 @@ The installer chooses the PHP version automatically.
 **Enjoy**
 
 ## How to update an existing panel
-* Take a backup and DOWNLOAD IT TO YOUR PC
+* Take a backup and download it
 * Reinstall the panel
 * Upload the gz backup to /home/midnightstreamer/iptv_midnight_streamer/backups/
 * Restore the backup from the UI
 * Full Rebuild the LBs from the UI
 
-Everything should be up and running in 10 min.
 
 To boost performance in case of 12k+ concurrent clients on a single LB increase the Total FastCGI Services in the server settings.
 
