@@ -87,8 +87,6 @@ To boost performance in case of 12k+ concurrent clients on a single LB increase 
 
 This distribution is a reinstall backup for those using v5.9.1. This repository will be updated from time to time only for security purposes.
 
-The active v8 branch can be found here <a href="https://discord.gg/xwJwZCH6H">https://discord.gg/xwJwZCH6H</a>
-
 * <a href="https://github.com/MDS-Unofficial/MidnightStreamer">Github</a>
 
 <div style="visibility: hidden">Midnight Streamer | MDS</div>
