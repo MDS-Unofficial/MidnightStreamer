@@ -51,6 +51,11 @@ The installer chooses the PHP version automatically.
 ## Nginx
 1.30.7 (CVE patches, Nov 2026)
 
+## FFmpeg
+* v4.2 Nvidia / Intel Quick Sync decoding and encoding
+* v7.1 Nvidia / Intel Quick Sync decoding and encoding
+- You can compile your own FFmpeg with stats enabled, just make sure .progress file is recreated and stats not appended on segment creation - ask an ai on how to modify the FFmpeg source code.
+
 ## Installation
 1. Download and extract the zip file https://mega.nz/folder/nIhFlYhY#7nNP5mZexcOqg3di9vHNOQ 
 
