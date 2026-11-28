@@ -54,7 +54,7 @@ The installer chooses the PHP version automatically.
 ## FFmpeg
 * v4.2 Nvidia / Intel Quick Sync decoding and encoding
 * v7.1 Nvidia / Intel Quick Sync decoding and encoding
-- You can compile your own FFmpeg with stats enabled, just make sure .progress file is deleted and recreated and stats not appended on segment creation - ask an ai on how to modify the FFmpeg source code.
+- You can compile your own FFmpeg with stats enabled, just make sure .progress file is deleted and recreated and stats not appended on segment creation - ask an ai how to modify the FFmpeg source code.
 
 ## API
 You can find the complete panel/player API documentation in the left menu MidnightStreamer -> API
